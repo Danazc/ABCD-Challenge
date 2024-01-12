@@ -7,6 +7,8 @@ const setBg = () => {
   genNew.addEventListener("click", setBg);
   setBg()
 
-  console.log("Agregando cositas a esta weaaaaa")
+  console.log("VAMO CARLITOOOO")
+  
+  console.log("Agregando cositas a esta weaaaa")
 
   
