@@ -6,3 +6,5 @@ const setBg = () => {
   
   genNew.addEventListener("click", setBg);
   setBg()
+
+  console.log("holavengoacausarproblema")
