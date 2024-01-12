@@ -26,9 +26,10 @@ function aplicarColoresAleatorios(elemento) {
 }
 
 // Asignar evento de clic a todas las etiquetas h3
-const h3Elements = document.querySelectorAll('h3');
+const h3Elements = document.querySelectorAll('h5');
 h3Elements.forEach(function (element) {
     element.addEventListener('click', function() {
         aplicarColoresAleatorios(element);
+        element.style.cursor = 'pointer';
     });
 });

@@ -10,8 +10,17 @@ html {
 }
 
 body {
-  background-color: rgb(112, 111, 111);
+  background-color: lightgray;
  font-family: Vegur, 'PT Sans', Verdana, sans-serif;
 
   margin: 0;
+}
+h3{
+color:darkgreen
+}
+.azul {
+color:blue
+}
+.rojo {
+color:red
 }
