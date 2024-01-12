@@ -30,3 +30,4 @@ const miEtiqueta = document.getElementById('miEtiqueta');
 miEtiqueta.addEventListener('click', function() {
     aplicarColoresAleatorios(miEtiqueta);
 });
+
